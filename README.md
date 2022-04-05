@@ -3,7 +3,7 @@
 <p align="center"> Flutter ( Mão na massa).</p>
 
 <p align="center">
-<img width="320" height="200" src="images/Flutter.jpg"/>
+<img width="620" height="200" src="images/Flutter.jpg"/>
 </p>
 
 
@@ -13,7 +13,7 @@
 - Imagens: DecorationImage, AssetImage, configurando Assets de imagens no yaml;
 - Customizando fontes no yaml;
 - rotas de navegação:
-<img width="320" height="150" src="images/rotas.png"/> 
+<img width="620" height="350" src="images/rotas.png"/> 
     
 - Há duas formas básicas de navegação, por meio de PÁGINAS ou NOMES.
 
