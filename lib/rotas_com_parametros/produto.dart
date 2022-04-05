@@ -31,7 +31,6 @@ class Produto extends StatelessWidget {
                 'Detalhes do produto',
                 style: TextStyle(fontSize: 22, color: Colors.white70),
               ),
-            
             ),
             Text("Valor a enviar: 12",
                 style: TextStyle(fontSize: 22, color: Colors.pink[700]))

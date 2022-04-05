@@ -1,16 +1,48 @@
-# flutter_fundamentos
+<h1 align="center">ATIVIDADES DESENVOLVIDAS NO CURSO DA ACADEMIA DO FLUTTER</h1>
 
-A new Flutter project.
+<p align="center"> Flutter ( Mão na massa).</p>
 
-## Getting Started
+<p align="center">
+<img width="320" height="200" src="images/Flutter.jpg"/>
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### » TÓPICOS ESTUDADOS E CONSOLIDADOS:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Principais Widget: Scaffold, MaterialApp, ThemeData, Drawer, AppBar, Center, Container;
+- Imagens: DecorationImage, AssetImage, configurando Assets de imagens no yaml;
+- Customizando fontes no yaml;
+- rotas de navegação:
+<img width="320" height="150" src="images/rotas.png"/> 
+    
+- Há duas formas básicas de navegação, por meio de PÁGINAS ou NOMES.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Comando de navegação por páginas:
+
+    > push: Abri uma página especifica e mantem a página anterior ativa por trás,empilhada.
+
+    > pushAndRemoveuntil: remove as páginas ativas empilhadas;
+
+    > pushReplacement: Substitui a página atual por outra;
+
+    > 
+- Comando de navegação por nomes, tem a mesma funcionalidade dos comandos de nabegação por página: 
+    > pushNamed;
+
+    > PushNamedAndRemoveuntil;
+
+    > PushReplacementNamed;
+
+- Enviado dados de uma página pra outra;
+    <img width="520" height="210" src="images/parametro1.png"/>
+    <img width="520" height="120" src="images/parametro2.png"/>
+
+
+
+
+
+### Autor
+
+<img alt="Luiz Carlos" title="Luiz Carlos" src="https://avatars.githubusercontent.com/u/29442285?s=96&v=4" height="100" width="100" />
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LUIZ_CARLOS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
